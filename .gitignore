@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+.python-version
+
+.tox/
+.pytest_cache/
+.coverage
+htmlcov/
+clover.xml
+results.xml
+coverage.xml
+
+# Django stuff:
+correspondent_server_settings_rewrite.py
+msscore_shared_settings_rewrite.py
+
+# certification
+*.pem
+
+# pycharm
+.idea/
+
+# Mac #
+.DS_Store
+
+# correspondent_server #
+static/admin/
+
